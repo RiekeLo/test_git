@@ -3,6 +3,6 @@
 #' Includes measurements for penguin species, island in Palmer Archipelago,
 #' size (flipper length, body mass, bill dimensions), and sex.
 
-#make plot
+#my analysis
 
 
