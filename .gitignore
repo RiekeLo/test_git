@@ -5,3 +5,14 @@
 .Rdata
 .httr-oauth
 .DS_Store
+
+#data (excludes everything in the folder data)
+data/*
+
+# you can make exceptions for specific files
+# !data/filename.csv
+
+#figures & output (excludes all figure files)
+*.png
+*.pdf
+*.jpeg
